@@ -1,0 +1,8 @@
+C:\Users\maira\codenation\csharp-0\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\maira\codenation\csharp-0\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\maira\codenation\csharp-0\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\maira\codenation\csharp-0\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+C:\Users\maira\codenation\csharp-0\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\maira\codenation\csharp-0\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\maira\codenation\csharp-0\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\maira\codenation\csharp-0\Source\obj\Debug\netstandard2.0\Source.pdb

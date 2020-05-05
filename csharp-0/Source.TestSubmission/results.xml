@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="0.027" tests="5" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="5" failures="0" time="0.027">
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Is_NotFibonacci_Test" time="0.0100000" />
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Is_Fibonacci_Test" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Fibonacci_Membrers_Test" time="0.0140000" />
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Fibonacci_Test" time="0.0010000" />
+    <testcase classname="Codenation.Challenge.MathTest" name="Codenation.Challenge.MathTest.Fibonacci_Membrer_Count_Test" time="0.0010000" />
+  </testsuite>
+</testsuites>
