@@ -1,2 +1,12 @@
-# codenation-challenges
- Codenation C# - Challenges
+# Desafios AceleraDev C# Itaú 2020
+- Fibonacci
+- Backend para gerenciar times de futebol
+- Criptografia de Júlio César
+- Os dez maiores estados brasileiros em extensão territorial
+- Processe dados dos jogadores do FIFA© 2017 (WIP)
+- Gerador de frases do Monty Python
+- Calculadora de Campos de Classe (WIP)
+- ORM .Net
+- Manipulação de dados através de serviços
+- Manipulação de dados com C# através de Web API
+- Segurança de acesso para Web API com JSON Web Token
